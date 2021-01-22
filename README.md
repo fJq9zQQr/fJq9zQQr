@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="fJq9zQQr@protonmail.com" target="_blank">
+  <a href="mailto:fJq9zQQr@protonmail.com" target="_blank">
     <img src="https://img.shields.io/badge/protonmail-%231DA1F2.svg?&style=for-the-badge&logo=protonmail&logoColor=white&color=8b89cc" alt="ProtonMail"/>
   </a>
   <a href="https://github.com/fJq9zQQr" target="_blank">
